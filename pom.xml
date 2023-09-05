@@ -48,6 +48,12 @@
             </exclusions>
         </dependency>
     </dependencies>
-
+<distributionManagement>
+    <repository>
+        <id>github</id>
+             <name> git hub package<name>
+        <url>https://github.com/umesh789/uiAssignment</url>
+    </repository>
+</distributionManagement>
 
 </project>
